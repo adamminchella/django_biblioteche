@@ -1,4 +1,6 @@
 body {
+  margin: 0;
+  padding: 0;
   background-color: rgba(197, 46, 164, 0.37);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
@@ -6,4 +8,22 @@ body {
 nav {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  background-color: rgb(29, 29, 29);
+  color: azure;
+  height: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: azure;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style: armenian;
 }
