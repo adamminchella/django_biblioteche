@@ -1,6 +1,9 @@
 body {
   background-color: rgba(197, 46, 164, 0.37);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+nav {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
